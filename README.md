@@ -1,5 +1,9 @@
 ## Hi! I'm Zac! 👋
 
+**`Software Developer`**
+
+I'm your typical corporate software developer who is now exploring the freelancing world of coding.
+
 <!--
 **vanzacarias/vanzacarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
